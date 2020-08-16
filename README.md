@@ -33,11 +33,15 @@
 
 لما تحاولوا تردوا او تعملوا isssue هتلاقوا الكلام جي من الشمال لليمين و لو اتكتب فيه كلمة انجيزية بيتلغبط تماماً, الحل لده هو انكوا تحطوا الكلام كله مابين ده:
 
+<div dir="ltr">
+
 ```html
 <div dir="rtl">
   // اكتب هنا
 </div>
 ```
+
+</div>
 
 [1]: https://www.moh.gov.sa/HealthAwareness/HealthDay/2019/Pages/HealthDay-2019-10-10-001.aspx
 [2]: http://www.emro.who.int/ar/control-and-preventions-of-blindness-and-deafness/about-the-programme/about-the-programme.html
