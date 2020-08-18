@@ -43,8 +43,12 @@
 
 </div>
 
+# مشاريع مساهمة
+يمكنكم تصفح مشاريع عربية تساهم في الملف الموجود بإسم [Notable Projects.md][4]. كما يمكنكم المساهمة فيه عن طريق بناء مشروع عربي يهدف لزيادة او تحسين المحتوى او تعديل الملف و اضافة مشاريع وجدتها او تعرفها ذات اهداف متناسقة مع اهداف هذا المشروع.
+
 [1]: https://www.moh.gov.sa/HealthAwareness/HealthDay/2019/Pages/HealthDay-2019-10-10-001.aspx
 [2]: http://www.emro.who.int/ar/control-and-preventions-of-blindness-and-deafness/about-the-programme/about-the-programme.html
 [3]: Code%20of%20Conduct.md
+[4]: Notable%20Projects.md
 
 </div>
