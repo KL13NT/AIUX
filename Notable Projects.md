@@ -4,5 +4,6 @@
 
 - [ar-javascript-info](https://github.com/javascript-tutorial/ar.javascript.info) الدورة التعليمية الحديثة لجافاسكريبت
 - [RTL Styling](https://rtlstyling.com/posts/rtl-styling) دليل الكتابة الـ RTL بيد [أحمد شديد](https://twitter.com/shadeed9) 
+- [لبيبة](https://github.com/fakoua/labiba) لغة البرمجة لبيبة باللغة العربية هي أو لغة برمجة متكاملة متوافقة مع جافاسكريبت 
 
 </div>
