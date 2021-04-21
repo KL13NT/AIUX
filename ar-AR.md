@@ -1,4 +1,4 @@
-<div dir="rtl">
+<div dir="rtl">
 
 # المبادرة العربية لتجربة المستخدم
 
@@ -51,7 +51,7 @@
 
 > كل شيء موجود على جيتهب [GitHub][4].
 
-> أنا آخذ مجتمع المصادر المفتوحة على محمل الجد وأعتبر نفسي والمساهمين الآخرين على مستوى عالٍ من الأخلاق. من خلال المشاركة والمساهمة في هذا المشروع فإنك توافق على [قواعد سلوك هذا المشروع](5).
+> أنا آخذ مجتمع المصادر المفتوحة على محمل الجد وأعتبر نفسي والمساهمين الآخرين على مستوى عالٍ من الأخلاق. من خلال المشاركة والمساهمة في هذا المشروع فإنك توافق على [قواعد سلوك هذا المشروع][5].
 
 سيتم إعطاء تسمية لكل مناقشة / مشكلة بناءً على الفئة التي تنتمي إليها وتصنيفها.
 
@@ -73,6 +73,6 @@
 
 [1]: https://www.moh.gov.sa/HealthAwareness/HealthDay/2019/Pages/HealthDay-2019-10-10-001.aspx
 [2]: http://www.emro.who.int/ar/control-and-preventions-of-blindness-and-deafness/about-the-programme/about-the-programme.html
-[3]: https://github.com/KL13NT/AISAUX/discussions
-[4]: https://github.com/KL13NT/arabic-a11y
-[5]: Code%20of%20Conduct.md
+[3]: {{ site.data.links.discussions }}
+[4]: {{ site.data.links.repo }}
+[5]: {{ site.data.links.code_of_conduct }}

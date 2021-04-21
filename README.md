@@ -4,7 +4,7 @@ The Arabic Initiative for User Experience (AIUX) is an idea for building a bette
 
 ## Translations
 
--   [Egyptian Arabic - العامية المصرية 🇪🇬](./ar-EG.md)
+- [Classical Arabic - العربية الفصحى 🇸🇦](./ar-AR.md)
 
 ## Introduction
 
@@ -74,11 +74,7 @@ To keep Arabic text right-aligned on GitHub use the following HTML code in your 
 ```
 
 [1]: https://www.moh.gov.sa/HealthAwareness/HealthDay/2019/Pages/HealthDay-2019-10-10-001.aspx
-
 [2]: http://www.emro.who.int/ar/control-and-preventions-of-blindness-and-deafness/about-the-programme/about-the-programme.html
-
-[3]: https://github.com/KL13NT/AISAUX/discussions
-
-[4]: https://github.com/KL13NT/arabic-a11y
-
-[5]: Code%20of%20Conduct.md
+[3]: {{ site.data.links.discussions }}
+[4]: {{ site.data.links.repo }}
+[5]: {{ site.data.links.code_of_conduct }}

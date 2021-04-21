@@ -1,1 +1,6 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-primer
+plugins:
+  - kramdown
+markdown: kramdown
+kramdown:
+  parse_block_html: true
